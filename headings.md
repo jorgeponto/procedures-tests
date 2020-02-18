@@ -16,3 +16,9 @@
 - [G141: Organizing a page using headings](g141.md)
 - [H42: Using h1-h6 to identify headings](h42.md)
 - [H69: Providing heading elements at the beginning of each section of content](h69.md)
+
+## ACT-Rules
+
+#30 Heading is descriptive
+#34 Heading has non-empty accessible name
+#43 Document has headings
