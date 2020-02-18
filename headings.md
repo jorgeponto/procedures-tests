@@ -19,6 +19,7 @@
 
 ## ACT-Rules
 
-#30 Heading is descriptive
-#34 Heading has non-empty accessible name
-#43 Document has headings
+- #30 [Heading is descriptive](https://act-rules.github.io/rules/b49b2e)
+- #34 Heading has non-empty accessible name
+- #43 Document has headings
+- [Heading has accessible name](https://act-rules.github.io/rules/ffd0e9)
