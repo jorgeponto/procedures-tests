@@ -1,12 +1,12 @@
 # Tables
 
-## Success Criteria applied to tables (x)
+## Success Criteria applied to tables (2)
 
 - [SC 1.3.1 Info and Relationships](sc131.md) - Level A
 - [SC 1.3.2 Meaningful Sequence](sc132.md) - Level A
 - [SC 2.4.6 Headings and Labels](sc246.md) - Level AA (mentioned in the filter of techniques but I don't found any technique explicitly related w/ tables)
 
-## Procedures prescribed by techniques and failures applied to tables (x)
+## Procedures prescribed by techniques and failures applied to tables (10)
 
 - [H39: Using caption elements to associate data table captions with data tables](h39.md)
 - [H43: Using id and headers attributes to associate data cells with header cells in data tables](h43.md)
@@ -21,4 +21,5 @@
 
 ## ACT-Rules
 
-- @@@@@@ #30 [Heading is descriptive](https://act-rules.github.io/rules/b49b2e)
+- #44 Headers attribute only refers to cells in the same table
+- #45 [All table header cells have assigned data cells](https://act-rules.github.io/rules/d0f69e)
