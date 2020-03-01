@@ -3,7 +3,7 @@
 ## Success Criteria applied to language (2)
 
 - [SC 3.1.1 Language of Page - Level A](sc311.md)
-- [SC 3.1.2 Language of Parts - Level AA](sc312)
+- [SC 3.1.2 Language of Parts - Level AA](sc312.md)
 
 ## Procedures of techniques and failures applied to language (2)
 
