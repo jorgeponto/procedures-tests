@@ -7,7 +7,7 @@
 
 ## Procedures of techniques and failures applied to language (2)
 
-- H57: Using language attributes on the html element
-- H58: Using language attributes to identify changes in the human language
+- [H57: Using language attributes on the html element](h57.md)
+- [H58: Using language attributes to identify changes in the human language](h58.md)
 
 ## ACT-Rules
