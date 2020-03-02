@@ -14,5 +14,5 @@
 
 - #6 [HTML page has lang attribute](https://act-rules.github.io/rules/b5c3f8)
 - #7 [HTML page lang and xml:lang attributes have matching values](https://act-rules.github.io/rules/5b7ae0)
-- #13 [Element within body has valid lang attribute](https://act-rules.github.io/rules/de46e4)
 - #14 [HTML page language is valid](https://act-rules.github.io/rules/bf051a)
+- #13 [Element within body has valid lang attribute](https://act-rules.github.io/rules/de46e4)
