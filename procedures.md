@@ -2,3 +2,4 @@
 
 - [Headings](headings.md)
 - [Tables](tables.md)
+- [Languages](language.md)
