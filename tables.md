@@ -19,7 +19,7 @@
 - [F90: Failure of Success Criterion 1.3.1 for incorrectly associating table headers and content via the headers and id attributes](f90.md)
 - [F91: Failure of Success Criterion 1.3.1 for not correctly marking up table headers](f91.md)
 
-## ACT-Rules
+## ACT-Rules (2)
 
-- #44 Headers attribute only refers to cells in the same table
+- #44 [Headers attribute only refers to cells in the same table](https://act-rules.github.io/rules/a25f45)
 - #45 [All table header cells have assigned data cells](https://act-rules.github.io/rules/d0f69e)
