@@ -10,7 +10,7 @@
 - [H57: Using language attributes on the html element](h57.md)
 - [H58: Using language attributes to identify changes in the human language](h58.md)
 
-## ACT-Rules
+## ACT-Rules (4)
 
 - #6 [HTML page has lang attribute](https://act-rules.github.io/rules/b5c3f8)
 - #7 [HTML page lang and xml:lang attributes have matching values](https://act-rules.github.io/rules/5b7ae0)
