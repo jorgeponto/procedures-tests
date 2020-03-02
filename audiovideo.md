@@ -1,0 +1,23 @@
+# Video and Audio elements
+
+## ACT-Rules (19)
+
+- [video element visual-only content is media alternative for text](https://act-rules.github.io/rules/fd26cf)
+- [video element visual-only content has transcript](https://act-rules.github.io/rules/ee13b5)
+- [video element visual-only content has description track](https://act-rules.github.io/rules/ac7dc6)
+- [video element visual-only content has audio track alternative](https://act-rules.github.io/rules/d7ba54)
+- [video element visual-only content has accessible alternative](https://act-rules.github.io/rules/c3232f)
+- [video element visual content has transcript](https://act-rules.github.io/rules/1a02b0)
+- [video element visual content has strict accessible alternative](https://act-rules.github.io/rules/1ec09b)
+- [video element visual content has description track](https://act-rules.github.io/rules/f196ce)
+- [video element visual content has audio description](https://act-rules.github.io/rules/1ea59c)
+- [video element visual content has accessible alternative](https://act-rules.github.io/rules/c5a4ea)
+- [video element content is media alternative for text](https://act-rules.github.io/rules/ab4d13)
+- [video element auditory content has captions](https://act-rules.github.io/rules/f51b46)
+- [video element auditory content has accessible alternative](https://act-rules.github.io/rules/eac66b)
+- [audio element content has text alternative](https://act-rules.github.io/rules/e7aa44)
+- [audio element content has transcript](https://act-rules.github.io/rules/2eb176)
+- [audio element content is media alternative for text](https://act-rules.github.io/rules/afb423)
+- [audio or video has no audio that plays automatically](https://act-rules.github.io/rules/80f0bf)
+- [audio or video that plays automatically does not exceed 3 seconds](https://act-rules.github.io/rules/aaa1bf)
+- [audio or video that plays automatically has a control mechanism](https://act-rules.github.io/rules/4c31df)
