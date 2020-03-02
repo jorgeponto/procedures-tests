@@ -4,7 +4,7 @@
 
 - [SC 2.4.2 Page Titled](sc242.md) - Level A
 
-## Procedures of techniques and failures applied to language (3)
+## Procedures of techniques and failures applied to Page Title (3)
 
 - [G88: Providing descriptive titles for Web pages](g88.md)
 - [H25: Providing a title using the title element](h25.md)
