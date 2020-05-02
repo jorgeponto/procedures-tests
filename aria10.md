@@ -1,4 +1,4 @@
-# Tests for ARIA 10: Using aria-labelledby to provide a text alternative for non-text content
+# Tests for ARIA10: Using aria-labelledby to provide a text alternative for non-text content
 
 ## Procedure
 
