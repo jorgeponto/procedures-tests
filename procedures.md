@@ -4,3 +4,4 @@
 - [Tables](tables.md) (2 ACT-R)
 - [Language](language.md) (4 ACT-R)
 - [Page Title](page-title.md) (2 ACT-R)
+- [Images](images.md) (x ACT-R)
