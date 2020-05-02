@@ -36,7 +36,7 @@
 - [H45: Using longdesc](h45.md)
 - [H53: Using the body of the object element](h53.md)
 - [H65: Using the title attribute to identify form controls when the label element cannot be used](h65.md)
-- [H67: Using null alt text and no title attribute on img elements for images that AT should ignore
+- [H67: Using null alt text and no title attribute on img elements for images that AT should ignore](h67.md)
 - [H86: Providing text alternatives for ASCII art, emoticons, and leetspeak](h86.md)
 - [F3: Failure of Success Criterion 1.1.1 due to using CSS to include images that convey important information](f3.md)
 - [F13: Failure of Success Criterion 1.1.1 and 1.4.1 due to having a text alternative that does not include information that is conveyed by color differences in the image](f13.md)
