@@ -1,6 +1,6 @@
 # Images
 
-## Success Criteria applied to images (x)
+## Success Criteria applied to images (3)
 
 - [SC 1.1.1 Non-text Content](sc111.md) - Level A
 - [SC 1.4.5 Images of Text](sc145.md) - Level AA
@@ -50,5 +50,9 @@
 - [F72: Failure of Success Criterion 1.1.1 due to using ASCII art without providing a text alternative](f72.md)
 
 ## ACT-Rules
+
+## Test Procedures Map
+
+
 
 x #30 [Heading is descriptive](https://act-rules.github.io/rules/b49b2e)
