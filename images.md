@@ -55,8 +55,8 @@ x #30 [Heading is descriptive](https://act-rules.github.io/rules/b49b2e)
 
 ## Test Procedures Map
 
-| TechniK |     |     |     ||||
-| ------- | :-: | :-: | :-: ||||
+| TechniK |     |     |     |     |     |     |
+| ------- | :-: | :-: | :-: | :-: | :-: | :-: |
 | [ARIA6](aria6.md) | 1 ||||||
 | [ARIA9](aria9.md) | 1 | 2 |||||
 | [ARIA10](aria10.md) | 1 | 2 | 3 ||||
