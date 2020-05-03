@@ -55,7 +55,7 @@ x #30 [Heading is descriptive](https://act-rules.github.io/rules/b49b2e)
 
 ## Test Procedures Map
 
-| TechniK |       Tests         |
-| ------- | --- | :---: | :---: | 
+| TechniK | Tests |
+| ------- | :---: | :---: | :---: | 
 | [F71]() | 1 | 2 | |
 | [F72]() | 1 | 2 | |
