@@ -59,7 +59,7 @@
 | Content Cell  | Content Cell  |
 
 | TechniK |   Tests   |
-| ------- | - | - | - | 
+| ------- | --------- | 
 | [F71]() | 1 | 2 |   |
 | [F72]() | 1 | 2 |   |
 
