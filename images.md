@@ -53,7 +53,7 @@
 
 x #30 [Heading is descriptive](https://act-rules.github.io/rules/b49b2e)
 
-## Test Procedures Map
+## Map of Test Procedures (97 tests = 40+32+18+5+1+1)
 
 | TechniK |     |     |     |     |     |     |
 | ------- | :-: | :-: | :-: | :-: | :-: | :-: |
