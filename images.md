@@ -1,3 +1,8 @@
+---
+output: 
+  html_document:
+     css: css/style.css
+---
 # Images
 
 ## Success Criteria applied to images (3)
