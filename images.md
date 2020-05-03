@@ -53,6 +53,11 @@
 
 ## Test Procedures Map
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 | TechniK |Tests|
 |---------|-|-|-|
 |[F71]()  |1|2| |
