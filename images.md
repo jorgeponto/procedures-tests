@@ -57,16 +57,16 @@ x #30 [Heading is descriptive](https://act-rules.github.io/rules/b49b2e)
 
 | TechniK |     |     |     | 
 | ------- | :-: | :-: | :-: |
-| [ARIA6](aria6.md) | |||
-| [ARIA9](aria9.md) | |||
-| [ARIA10](aria10.md) | |||
-| [ARIA15](aria15.md) | |||
-| [C9](c9.md) | |||
-| [C22](c22.md) | |||
-| [C30](c30.md) | |||
-| [G68](g68.md) | |||
-| [G72](g72.md) | |||
+| [ARIA6](aria6.md) | 1 |||
+| [ARIA9](aria9.md) | 1 | 2 ||
+| [ARIA10](aria10.md) | 1 | 2 | 3 |
+| [ARIA15](aria15.md) | 1 | 2 | 3 |
+| [C9](c9.md) | 1 | 2 ||
+| [C22](c22.md) | 1 |||
+| [C30](c30.md) | 1 | 2 ||
+| [G68](g68.md) | 1 | 2 | 3 |
 | [G73](g73.md) | |||
+| [G74](g74.md) | |||
 | [G82](g82.md) | |||
 | [G92](g92.md) | |||
 | [G94](g94.md) | |||
