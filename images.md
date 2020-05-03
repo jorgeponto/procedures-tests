@@ -57,7 +57,7 @@ x #30 [Heading is descriptive](https://act-rules.github.io/rules/b49b2e)
 
 | TechniK |     |     |     |     |     |     |
 | ------- | :-: | :-: | :-: | :-: | :-: | :-: |
-| [ARIA6](aria6.md) | 1 ||||||
+| [ARIA6](aria6.md) | [1](aria6.md#n1 "ARIA6") ||||||
 | [ARIA9](aria9.md) | 1 | 2 |||||
 | [ARIA10](aria10.md) | 1 | 2 | 3 ||||
 | [ARIA15](aria15.md) | 1 | 2 | 3 ||||
