@@ -51,7 +51,7 @@
 
 ## ACT-Rules
 
-x #30 [Heading is descriptive](https://act-rules.github.io/rules/b49b2e)
+- [Image button has accessible name](https://act-rules.github.io/rules/59796f) - H36, G94, G95
 
 ## Map of Test Procedures (97 tests = 40+32+18+5+1+1)
 
