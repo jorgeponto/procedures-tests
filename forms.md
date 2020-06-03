@@ -7,7 +7,7 @@
 - [1.4.1 Use of Color](sc141.md) - Level A
 - [1.4.3 Contrast (Minimum)](sc143.md) - Level AA
 - [1.4.6 Contrast (Enhanced)](sc146.md) - Level AAA
-- [2.1.1 Keyboard] - Level(sc211.md) A
+- [2.1.1 Keyboard](sc211.md) - Level A
 - [2.1.2 No Keyboard Trap](sc212.md) - Level A
 - [2.1.3 Keyboard (No Exception)](sc213.md) - Level AAA
 - [2.2.5 Re-authenticating](sc225.md) - Level AAA
