@@ -51,7 +51,7 @@
 
 ## ACT-Rules
 
-- [Image button has accessible name](https://act-rules.github.io/rules/59796f) - H36, G94, G95
+- [Image button has non-empty accessible name](https://act-rules.github.io/rules/59796f) - H36, G94, G95
   - **Applicability:** The rule applies to any HTML <code>input</code> element with a <code>type</code> attribute in the <a href="https://html.spec.whatwg.org/#image-button-state-(type=image)"><code>Image Button</code> state</a>, that is <a href="https://act-rules.github.io/rules/59796f#included-in-the-accessibility-tree" title="Definition of included in the accessibility tree">included in the accessibility tree</a>.
   - **Expectation:** Each target element has an <a href="#accessible-name" title="Definition of accessible name">accessible name</a> that is not empty (<code>""</code>). <strong>Note:</strong> Testing that the <a href="#accessible-name" title="Definition of accessible name">accessible name</a> describes the purpose of the element is not part of this rule and must be tested separately.
 - [Image filename is accessible name for image](https://act-rules.github.io/rules/9eb3f6) - G94, G95, F30
