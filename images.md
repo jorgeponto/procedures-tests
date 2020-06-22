@@ -60,9 +60,24 @@
 - [Image has non-empty accessible name](https://act-rules.github.io/rules/23a2a8) - G94, G95
   - **Aplicability:** The rule applies to HTML <code class="language-text">img</code> elements and HTML elements with the <a href="https://act-rules.github.io/rules/23a2a8#semantic-role" title="Definition of semantic role">semantic role</a> of <code class="language-text">img</code>, except for elements that are not <a href="https://act-rules.github.io/rules/23a2a8#included-in-the-accessibility-tree" title="Definition of included in the accessibility tree">included in the accessibility tree</a>.
   - **Expectation:** Each target element has an <a href="https://act-rules.github.io/rules/23a2a8#accessible-name" title="Definition of accessible name">accessible name</a> that is not empty (<code class="language-text">""</code>), or has a <a href="https://act-rules.github.io/rules/23a2a8#semantic-role" title="Definition of semantic role">semantic role</a> of <code class="language-text">none</code> or <code class="language-text">presentation</code>.
-  
-
-
+- [Image not in the accessibility tree is decorative](https://act-rules.github.io/rules/e88epe) - 
+  - **Aplicability:**
+<p>Any <code class="language-text">img</code>, <code class="language-text">canvas</code> or <code class="language-text">svg</code> element that is <a href="#visible" title="Definition of Visible">visible</a> and for which one of the following is true:</p>
+<ul>
+<li><strong>excluded</strong>: The element is not <a href="#included-in-the-accessibility-tree" title="Definition of Included in the accessibility tree">included in the accessibility tree</a>; or</li>
+<li><strong>ignored svg</strong>: The element is an <code class="language-text">svg</code> with an empty (<code class="language-text">""</code>) <a href="#accessible-name" title="Definition of accessible name">accessible name</a> and a <a href="#semantic-role" title="Definition of Semantic Role">semantic role</a> of <code class="language-text">graphics-document</code>; or</li>
+<li><strong>ignored canvas</strong>: The element is a <code class="language-text">canvas</code> with an empty (<code class="language-text">""</code>) <a href="#accessible-name" title="Definition of accessible name">accessible name</a> and no <a href="#explicit-role" title="Definition of Explicit semantic role">explicit semantic role</a>; or</li>
+</ul>
+<p><strong>Exception</strong>: This rule never applies to elements for which one of the following is true:</p>
+<ul>
+<li>The element has an <a href="https://dom.spec.whatwg.org/#concept-tree-ancestor" title="DOM definition of ancestor, 2020/03/06">ancestor</a> in the <a href="https://drafts.csswg.org/css-scoping/#flat-tree" title="CSS Scoping definition of Flat tree, working draft">flat tree</a> that is <a href="https://www.w3.org/TR/wai-aria-1.1/#namecalculation" title="WAI-ARIA definition of Named from author">named from author</a>; or</li>
+<li>The element is an <code class="language-text">img</code> element where the <a href="https://html.spec.whatwg.org/#current-request" title="HTML definition of Current request, 2020/03/06">current request</a>'s <a href="https://html.spec.whatwg.org/#img-req-state" title="HTML definition of Image request state, 2020/03/06">state</a> is not <a href="https://html.spec.whatwg.org/#img-all" title="HTML definition of Completely available, 2020/03/06">completely available</a>.</li>
+</ul>
+<p><strong>Note</strong>: An example of an image ignored because of an <a href="https://dom.spec.whatwg.org/#concept-tree-ancestor" title="DOM definition of ancestor, 2020/03/06">ancestor</a> with <a href="https://www.w3.org/TR/wai-aria-1.1/#namecalculation" title="WAI-ARIA definition of Named from author">named from author</a> is when the image is a descendant of a <code class="language-text">button</code> element that uses <code class="language-text">aria-label</code> for its accessible name.</p>
+  - **Expectation:** Each test target is <a href="https://www.w3.org/TR/WCAG21/#dfn-pure-decoration" title="WCAG definition of Pure decoration">purely decorative</a>. <strong>Note</strong>: It is relatively common for an informative image such as an icon to be marked up as decorative, if the text alternative is adjacent to the image. This is a <a href="https://www.w3.org/TR/WCAG21/#dfn-conforming-alternate-version" title="WCAG definition of Conforming alternative version">conforming alternative version</a> for the image. This fails the rule but meets <a href="https://www.w3.org/TR/WCAG21/#cc1">conformance requirement 1 of WCAG 2.1</a>.
+- [svg element with explicit role has non-empty accessible name](https://act-rules.github.io/rules/7d6734)
+  - **Aplicability:** The rule applies to any element in the <a href="https://www.w3.org/2000/svg">SVG</a> namespace with an <a href="https://act-rules.github.io/rules/7d6734#explicit-role" title="Definition of explicit role">explicit semantic role</a> of either <code class="language-text">img</code>, <code class="language-text">graphics-document</code>, <code class="language-text">graphics-symbol</code>, that is <a href="https://act-rules.github.io/rules/7d6734#included-in-the-accessibility-tree" title="Definition of Included in the accessibility tree">included in the accessibility tree</a>.
+  - **Expectation:** Each target element has an <a href="https://act-rules.github.io/rules/7d6734#accessible-name" title="Definition of accessible name">accessible name</a> that is not empty.
 
 ## Map of Test Procedures (97 tests = 40+32+18+5+1+1)
 
